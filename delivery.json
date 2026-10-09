@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "version": "0.1.1",
+  "source_commit": "9431f34406fee28adc692e3fa36c1742d0e181e1",
+  "mode": "verify-existing",
+  "assets": [
+    {
+      "name": "FIRST_FLASH.md",
+      "size": 3635,
+      "sha256": "2426ebdc2ab2a612dbcfeaedfb9f9b9e0446edaeafd947351b8ca091138c14b3"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 415,
+      "sha256": "6620a0080369edb183e67f5405d875e0a02dfcf624f474a2d883262807a3eb15"
+    },
+    {
+      "name": "VERIFICATION.md",
+      "size": 5855,
+      "sha256": "c12bc60318046c0958015ad65dab75551428c2efc50c7664ade606310dd761fb"
+    },
+    {
+      "name": "firmware.sfu",
+      "size": 1055488,
+      "sha256": "87eec8ecb8213af5f6513010ba413c99b8e843f837eff32d244b0b07aaad2752"
+    },
+    {
+      "name": "first-flash-0.1.1.zip",
+      "size": 727001,
+      "sha256": "8247148356157320aa4ef2d447abd30783802fb8918135c00973c5fe1cd50f32"
+    },
+    {
+      "name": "manifest.json",
+      "size": 1185,
+      "sha256": "e2e7817f7efe02b2454911bfe335738878e3dcac6a8444072b5d3f259329cf5d"
+    }
+  ],
+  "notes_sha256": "899646e79d048696504a17ac432240c6488db8bc6cd8833ff00b1d83c5712047",
+  "request_id": "37877991398-1"
+}
